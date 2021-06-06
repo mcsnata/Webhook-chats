@@ -1,7 +1,6 @@
 # Webhook-chats
 - Can message via webhooks
-
-Just that
+- Just a useless code
 
 **Requirements :**
 - pip install requests
